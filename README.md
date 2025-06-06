@@ -4,33 +4,19 @@ Woonig is an innovative platform designed to simplify and enhance the rental exp
 
 ## About
 
-Woonig connects property owners and tenants in a seamless digital environment, making the rental process transparent, efficient, and hassle-free. Our platform is built to address the common pain points in property rental and management.
+Woonig connects property owners and tenants in a seamless digital environment, making the rental process transparent, efficient, and hassle-free.
 
-## Features
+## Community Health Files
 
-### For Landlords
+This repository contains community health files for the Woonig project. These files help maintain project standards and guide community contributions:
 
-- **Property Listing Management**: Easily list and manage your rental properties
-- **Tenant Screening**: Access to background checks and rental history
-- **Digital Contracts**: Create, send, and sign lease agreements online
-- **Payment Processing**: Collect rent payments automatically
-- **Maintenance Tracking**: Manage repair requests efficiently
+- **CODE_OF_CONDUCT.md**: Our community behavior expectations
+- **CONTRIBUTING.md**: Guidelines for project contributions
+- **ISSUE_TEMPLATE/**: Templates for bug reports and feature requests
+- **PULL_REQUEST_TEMPLATE.md**: Structure for pull request submissions
+- **SECURITY.md**: Security policy and vulnerability reporting
 
-### For Tenants
-
-- **Property Search**: Find your ideal rental using advanced filters
-- **Application Process**: Apply for multiple properties with a single profile
-- **Digital Lease Signing**: Review and sign agreements securely online
-- **Rent Payments**: Set up automatic payments or pay rent online
-- **Maintenance Requests**: Submit and track repair requests
-
-## Getting Started
-
-Visit [www.woonig.com](https://www.woonig.com/) to create your account and begin using the platform.
-
-## Technology Stack
-
-Woonig is built using modern technologies to ensure security, scalability, and a seamless user experience.
+For more information on community health files, please see the [GitHub documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
 
 ## Contact
 
